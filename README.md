@@ -275,11 +275,3 @@ the output will be:
 <h1 align="center"><strong>If you like this repo star it</strong></h1>
 </p>
 <p align="center"><a href="https://www.buymeacoffee.com/B.R.O.L.Y"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ridwane-el-filali" /></a></p><br><br>
-
-
-
-
-
-
-
-
